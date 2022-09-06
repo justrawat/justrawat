@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I love to talk about Entrepreneurship, Finance & Business**
 
+- 👨🏻‍💻 Work profile on **[GitHub](https://github.com/aman-pdgt)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/justrawat/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="justrawat" height="32" width="32" /></a>

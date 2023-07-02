@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justrawat&label=Profile%20views&color=0e75b6&style=flat" alt="aman_rawat" /></p>
 
-- 🌱 I’m currently exploring **to build scalable backends with Python/Django & learning more about Blockchain**
+- 🌱 I’m currently building projects with **Next.js 13, and also learning Python & Django**
 
 - 👯 I’m looking to collaborate on **Opensource Projects**
 
-- 💬 Discuss with me about **JavaScript, React & Front-end**
+- 💬 Discuss with me about **JavaScript, React, Next.js & more Front-end technologies**
 
-- ⚡ Fun fact **I love to talk about Entrepreneurship, Finance & Business**
+- ⚡ Fun fact **I love to talk about Football, Finance & Business**
 
 - 👨🏻‍💻 Work profile on **[GitHub](https://github.com/aman-pdgt)**
 

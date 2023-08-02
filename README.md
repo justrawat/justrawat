@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justrawat&label=Profile%20views&color=0e75b6&style=flat" alt="aman_rawat" /></p>
 
-- 🌱 I’m currently building projects with **Next.js 13, and also learning Python & Django**
+- 🌱 I’m currently building projects with **Next.js 12/13, React 18, TypeScript, SWR, ChakraUI and also learning Python & Django**
 
 - 👯 I’m looking to collaborate on **Opensource Projects**
 

@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I love to talk about Football, Finance & Business**
 
-- 👨🏻‍💻 Work profile on **[GitHub](https://github.com/aman-pdgt)**
+- 👨🏻‍💻 Work profile on **[GitHub](https://github.com/aman-pdgt)** ⭐️👨🏻‍💻
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
